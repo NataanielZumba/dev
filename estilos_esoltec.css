@@ -1,0 +1,61 @@
+
+ul{
+	background-color:gray;
+	color:white;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	height: 40px;
+	font-size:16pt;
+	text-align: center;
+	padding-top:15px;
+}
+
+li{
+	display:inline;
+	padding:10px;
+	
+}
+#nav{
+	margin-top: 0px;
+}
+
+/*AREA DO ARTICLE CONTEUDO DA PAGINA HOME*/
+#article{
+	display: flex;
+}
+
+.servico{
+	border: 1px solid black;
+	border-radius:7px;
+	margin: 2px;
+	padding: 10px;
+}
+.servico:hover{
+	border: 1px solid black;
+	border-radius:7px;
+	margin: 2px;
+	padding: 10px;
+	background-color: black;
+	color: white;
+	cursor: pointer;
+}
+/*AREA DO ARTICLE DO CONTEUDO DA PAGINA PRODUTO*/
+
+#website img{
+	
+	margin: 13px;
+	border: solid 1px;
+	border-radius:10px;
+}
+
+#footer{
+	background-color: gray;
+	color: white;
+	font-size: 14pt;
+	text-align: center;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	line-height: 1px;
+}
